@@ -1,0 +1,2 @@
+# Corporacion-Favorita-Grocery-Data-analysis-Project
+Favorita stores hold a significant presence in the Ecuadorian grocery retail market and are renowned for providing a wide range of products to customers across the country. With a customer-centric approach and a focus on continuous improvement, Favorita stores are dedicated to delivering value to their customers and building lasting relationships. 
