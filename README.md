@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# LP3-Time-Series-Analysis
+# Time Series Analysis
 This is a time series project that seeks to predict sales of the Favourita company.
 ## Summary
 | Code          |     Name                       | Published Article|    PowerBi Dashboard
